@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MsLiveSDK_Tests' do
+  pod 'MsLiveSDK', :path => '../'
+  
+  
+end
