@@ -1,0 +1,6 @@
+framework module MsLiveSDK {
+  umbrella header "MsLiveSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

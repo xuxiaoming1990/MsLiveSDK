@@ -1,0 +1,6 @@
+framework module Pods_MsLiveSDK_Tests {
+  umbrella header "Pods-MsLiveSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MsLiveSDK (0.1.0)
+
+DEPENDENCIES:
+  - MsLiveSDK (from `../`)
+
+EXTERNAL SOURCES:
+  MsLiveSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MsLiveSDK: 3aa080f50c6e2e47f6ad9a655c6d0b8e04393b20
+
+PODFILE CHECKSUM: 32e36b5b12ad852e9f74b7e6fce35b11796788f8
+
+COCOAPODS: 1.9.1
