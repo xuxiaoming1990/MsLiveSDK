@@ -10,7 +10,9 @@ Pod::Spec.new do |s|
   s.name             = 'MsLiveSDK'
   s.version          = '0.1.0'
   s.summary          = 'A short description of MsLiveSDK.'
-  s.description      = 'A short description of MsLiveSDK.'
+  s.description      = <<-DESC
+  腾讯直播和聊天室封装
+                         DESC
   s.homepage         = 'https://github.com/xuxiaoming1990/MsLiveSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
