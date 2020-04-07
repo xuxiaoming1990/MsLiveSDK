@@ -1,0 +1,6 @@
+framework module BTFramework {
+  umbrella header "BTFramework.h"
+
+  export *
+  module * { export * }
+}
